@@ -23,4 +23,4 @@ In this project i have created a Plant Home Page. And i have learnt a lot of thi
 
 ### You can Check it Live on Below Link :
 
-[Project Live Link](https://azam-crypto-landing-page.netlify.app/)
+[Project Live Link](https://azam-plant-home-page.netlify.app/)
