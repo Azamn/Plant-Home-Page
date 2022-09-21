@@ -16,7 +16,6 @@ In this project i have created a Plant Home Page. And i have learnt a lot of thi
 ### My Project is looking like :
 
 ![Web Site Image](./screenshot/plant-home-page.png)
-![Web Site Mobile View Image](./screenshot/product-home-page-mobile.png)
 
 ## Time taken to finish this project
 
