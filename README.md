@@ -15,7 +15,7 @@ In this project i have created a Plant Home Page. And i have learnt a lot of thi
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/crypto-landing.png)
+![Web Site Image](./screenshot/plant-home-page.png)
 
 ## Time taken to finish this project
 
